@@ -1,0 +1,10 @@
+# osx
+.DS_Store
+
+# vscode
+.vscode
+
+# c
+out
+*.o
+*.a
