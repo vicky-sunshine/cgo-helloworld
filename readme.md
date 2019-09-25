@@ -1,4 +1,4 @@
-# cgo-101
+# cgo-helloworld
 
 Self-practice for cgo.
 
