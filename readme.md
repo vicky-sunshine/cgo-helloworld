@@ -69,7 +69,7 @@ gcc -shared -o libhelloworld.so helloworld.c
 # move .so to lib foldeer
 mv libhelloworld.so ../lib
 # [in MacOS] set DYLD_LIBRARY_PATH
-export DYLD_LIBRARY_PATH=<absolutie_path_of_cgo-101>/helloworld-06-dynamic-link-lib/lib
+export DYLD_LIBRARY_PATH=<absolutie_path_of_this_project>/helloworld-06-dynamic-link-lib/lib
 
 # back to helloworld-06-dynamic-link-lib folder
 cd ..
